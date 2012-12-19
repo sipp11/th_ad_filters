@@ -1,3 +1,4 @@
+[Adblock Plus 1.1]
 ! banners and some scripts on manager.co.th
 ||manager.co.th/*images/*.swf
 ||scorecardresearch.com/*.js
