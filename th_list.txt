@@ -1,0 +1,6 @@
+! banners and some scripts on manager.co.th
+||manager.co.th/*images/*.swf
+||scorecardresearch.com/*.js
+||imrworldwide.com/*.js
+||effectivemeasure.net/*js
+||truehits.in.th/data/*.js
