@@ -1,13 +1,14 @@
 [Adblock Plus 1.1]
 ! banners and some scripts on manager.co.th
-
 ||manager.co.th/*images/*.swf
 ||manager.co.th/*banner*
 ||scorecardresearch.com/*.js
 ||imrworldwide.com/*.js
 
-! block tracking script slowing things down
+! banners on some specific sites
+||taklong.com/*.swf
 
+! block tracking script slowing things down
 ||effectivemeasure.net/*js
 ||truehits.in.th/data/*.js
 ||yengo.com/*.cgi
@@ -16,4 +17,4 @@
 ||histats.com^
 ||sharethis.com^
 ||stats.in.th^
-
+||synergy-e.com/*.js
