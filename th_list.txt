@@ -1,7 +1,19 @@
 [Adblock Plus 1.1]
 ! banners and some scripts on manager.co.th
+
 ||manager.co.th/*images/*.swf
+||manager.co.th/*banner*
 ||scorecardresearch.com/*.js
 ||imrworldwide.com/*.js
+
+! block tracking script slowing things down
+
 ||effectivemeasure.net/*js
 ||truehits.in.th/data/*.js
+||yengo.com/*.cgi
+||yengo.com/*.js
+||userreport.com/*.js
+||histats.com^
+||sharethis.com^
+||stats.in.th^
+
