@@ -5,6 +5,13 @@
 ||scorecardresearch.com/*.js
 ||imrworldwide.com/*.js
 
+! banners on soccersuck.com
+soccersuck.com##table#Table_
+soccersuck.com###floating
+soccersuck.com##div#basessm_tower
+||soccersuck.com/*sbo*
+||soccersuck.com/*ads*
+
 ! banners on some specific sites
 ||taklong.com/*.swf
 
