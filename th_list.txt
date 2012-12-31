@@ -2,8 +2,6 @@
 ! banners and some scripts on manager.co.th
 ||manager.co.th/*images/*.swf
 ||manager.co.th/*banner*
-||scorecardresearch.com/*.js
-||imrworldwide.com/*.js
 
 ! banners on soccersuck.com
 soccersuck.com##table#Table_
@@ -12,12 +10,53 @@ soccersuck.com##div#basessm_tower
 ||soccersuck.com/*sbo*
 ||soccersuck.com/*ads*
 
+! banners on mthai
+mthai.com##div#coverpage
+mthai.com###rectangle_a
+mthai.com##*#csr-block
+mthai.com##*#foo_btn
+mthai.com##*#floating
+mthai.com##*#ads-topbanner
+mthai.com##div#dynamic_ads_placeholder
+mthai.com##*#miniads_box
+mthai.com##*#share_block
+mthai.com##*.share_block
+mthai.com##*#share_icon
+mthai.com##*.ads-content
+mthai.com##*#rightbanner
+mthai.com##*.entry-share
+mthai.com##*#ads-rectangle
+mthai.com##*.ads-bottom
+mthai.com###rectangle_g
+mthai.com###rectangle_d
+mthai.com###rectangle_c
+mthai.com###rectangle_b
+
+! banners siamsport
+siamsport.co.th##*.social
+siamsport.co.th##*.share-news
+siamsport.co.th##*.leaderboard
+siamsport.co.th##iframe[src="http://www.siamsportclassified.com/enter/enter.php"]
+siamsport.co.th##div[style="float:left; width:641px; height:150px;"]
+siamsport.co.th##*.bx1300adr
+siamsport.co.th##*#adsLeaderboard
+
+! banner kapook
+kapook.com##*.banner
+
+! banners on tvjaa
+tvjaa.com##table[width="990"]
+tvjaa.com##*#exposeMask
+tvjaa.com##*#dlgAds
+tvjaa.com##*#FloatingLayerright
+tvjaa.com##*#FloatingLayerleft
+
 ! banners on some specific sites
 ||taklong.com/*.swf
 
 ! block tracking script slowing things down
 ||effectivemeasure.net/*js
-||truehits.in.th/data/*.js
+||truehits.in.th/*.js
 ||yengo.com/*.cgi
 ||yengo.com/*.js
 ||userreport.com/*.js
@@ -25,3 +64,8 @@ soccersuck.com##div#basessm_tower
 ||sharethis.com^
 ||stats.in.th^
 ||synergy-e.com/*.js
+||thousandeyes.com/*.js
+||nipa.co.th/*.js
+||scorecardresearch.com/*.js
+||imrworldwide.com/*.js
+
