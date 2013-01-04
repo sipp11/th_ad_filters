@@ -2,6 +2,19 @@
 ! banners and some scripts on manager.co.th
 ||manager.co.th/*images/*.swf
 ||manager.co.th/*banner*
+manager.co.th##div[id^="div-gpt-ad-"]
+manager.co.th##*[width="728"]
+manager.co.th##*[name^="Ads"]
+manager.co.th##td[width="302"]
+manager.co.th##div[style*="height:250px"]
+manager.co.th##iframe[name="taste"]
+manager.co.th##*[height="150"]
+manager.co.th##*[height="250"]
+manager.co.th##*[background*="banner"]
+
+! komchadluek.net
+komchadluek.net##*[class^="ads"]
+komchadluek.net##div#bTopBanner
 
 ! banners on soccersuck.com
 soccersuck.com##table#Table_
@@ -12,25 +25,25 @@ soccersuck.com##div#basessm_tower
 
 ! banners on mthai
 mthai.com##div#coverpage
-mthai.com###rectangle_a
+mthai.com##div#dynamic_ads_placeholder
 mthai.com##*#csr-block
 mthai.com##*#foo_btn
 mthai.com##*#floating
-mthai.com##*#ads-topbanner
-mthai.com##div#dynamic_ads_placeholder
 mthai.com##*#miniads_box
 mthai.com##*#share_block
 mthai.com##*.share_block
 mthai.com##*#share_icon
+mthai.com##*#ads-topbanner
 mthai.com##*.ads-content
+mthai.com##*.ads-bottom
+mthai.com##*#ads-rectangle
 mthai.com##*#rightbanner
 mthai.com##*.entry-share
-mthai.com##*#ads-rectangle
-mthai.com##*.ads-bottom
-mthai.com###rectangle_g
-mthai.com###rectangle_d
-mthai.com###rectangle_c
+mthai.com###rectangle_a
 mthai.com###rectangle_b
+mthai.com###rectangle_c
+mthai.com###rectangle_d
+mthai.com###rectangle_g
 
 ! banners siamsport
 siamsport.co.th##*.social
@@ -68,4 +81,4 @@ tvjaa.com##*#FloatingLayerleft
 ||nipa.co.th/*.js
 ||scorecardresearch.com/*.js
 ||imrworldwide.com/*.js
-
+||w3counter.com/*.js
