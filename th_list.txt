@@ -11,6 +11,7 @@ manager.co.th##iframe[name="taste"]
 manager.co.th##*[height="150"]
 manager.co.th##*[height="250"]
 manager.co.th##*[background*="banner"]
+astv-tv.com##*[height="130"]
 
 ! komchadluek.net
 komchadluek.net##*[class^="ads"]
@@ -66,6 +67,11 @@ tvjaa.com##*#FloatingLayerleft
 
 ! banners on some specific sites
 ||taklong.com/*.swf
+
+! banners
+||ohozaa.com/floatcenter.php
+||ohozaa.com/js/jquery.scroll-follow.js
+||goal.in.th/banner/*
 
 ! block tracking script slowing things down
 ||effectivemeasure.net/*js
