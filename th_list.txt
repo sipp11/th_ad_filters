@@ -90,8 +90,7 @@ ohozaa.com###ads468
 ohozaa.com##.ads_line
 ||goal.in.th/banner/*
 bugnoms.com##.ads
-
-
+tax.bugnoms.com/wp-content/uploads/banner*
 
 ! block tracking script slowing things down
 ||effectivemeasure.net/*js
