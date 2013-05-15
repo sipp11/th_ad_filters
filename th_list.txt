@@ -23,6 +23,18 @@ soccersuck.com###floating
 soccersuck.com##div#basessm_tower
 ||soccersuck.com/*sbo*
 ||soccersuck.com/*ads*
+||soccersuck.com/ss/ads/*
+||soccersuck.com/*banner*
+soccersuck.com##table[width="961"]
+
+! banidea
+banidea.com##[class=wp_bannerize_header_728x90]
+banidea.com##[class=adsBlockRightNoborder]
+banidea.com##[class=adsBlockRight]
+banidea.com##[class=fb_block]
+banidea.com##[class=wp_bannerize_main_4_300x250]
+banidea.com##[class=wp_bannerize_main_1_300x250]
+||banidea.com/*728x90*.swf
 
 ! banners on mthai
 mthai.com##div#coverpage
@@ -71,7 +83,15 @@ tvjaa.com##*#FloatingLayerleft
 ! banners
 ||ohozaa.com/floatcenter.php
 ||ohozaa.com/js/jquery.scroll-follow.js
+ohozaa.com###floating
+dogilike.com##.bannerhome
+dogilike.com##.recommend
+ohozaa.com###ads468
+ohozaa.com##.ads_line
 ||goal.in.th/banner/*
+bugnoms.com##.ads
+
+
 
 ! block tracking script slowing things down
 ||effectivemeasure.net/*js
