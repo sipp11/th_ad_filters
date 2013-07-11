@@ -1,4 +1,10 @@
 [Adblock Plus 1.1]
+! on madoolakorn.com
+madoolakorn.com###asdRightSlide
+madoolakorn.com###asdLeftSlide
+madoolakorn.com###lakorn_intro
+madoolakorn.com###tvonline
+
 ! banners and some scripts on manager.co.th
 ||manager.co.th/*images/*.swf
 ||manager.co.th/*banner*
@@ -81,16 +87,24 @@ tvjaa.com##*#FloatingLayerleft
 ||taklong.com/*.swf
 
 ! banners
+##.ads_nipa
 ||ohozaa.com/floatcenter.php
 ||ohozaa.com/js/jquery.scroll-follow.js
 ohozaa.com###floating
-dogilike.com##.bannerhome
-dogilike.com##.recommend
 ohozaa.com###ads468
 ohozaa.com##.ads_line
+
+dogilike.com##.bannerhome
+dogilike.com##.recommend
+
 ||goal.in.th/banner/*
+
 bugnoms.com##.ads
 tax.bugnoms.com/wp-content/uploads/banner*
+
+drama-addict.com##table[style="background-color:#88a026"]
+
+thaiscooter.com###ad_global_below_navbar
 
 ! block tracking script slowing things down
 ||effectivemeasure.net/*js
