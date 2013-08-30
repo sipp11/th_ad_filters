@@ -99,6 +99,23 @@ dogilike.com##.recommend
 
 ||goal.in.th/banner/*
 
+
+hugball.com##.floating-bar
+hugball.com##.banner_floating
+hugball.com##.banner_floating_left
+||hugball.com/banner/*
+||banner.hugball.com/*
+
+sodazaa.com###bar_bottom
+sodazaa.com##._bn-float
+||sodazaa.com/ads*
+||soccersecret90.com/banner*
+
+||sboibc888.com
+! postto is pretty agressive on banners esp. on sodazaa -- blocking for now.
+||postto.me/*
+
+
 bugnoms.com##.ads
 tax.bugnoms.com/wp-content/uploads/banner*
 
