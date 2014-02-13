@@ -85,9 +85,15 @@ tvjaa.com##*#FloatingLayerleft
 
 ! banners on some specific sites
 ||taklong.com/*.swf
+||overclockzone.com/*banner*
+www.overclockzone.com##div#sidebar_container
 
 ! banners
+||mds.nipa.co.th
+||*.nipa.co.th/*.php
+!||*.nipa.co.th/*.gif
 ##.ads_nipa
+
 ||ohozaa.com/floatcenter.php
 ||ohozaa.com/js/jquery.scroll-follow.js
 ohozaa.com###floating
@@ -98,7 +104,6 @@ dogilike.com##.bannerhome
 dogilike.com##.recommend
 
 ||goal.in.th/banner/*
-
 
 hugball.com##.floating-bar
 hugball.com##.banner_floating
@@ -114,7 +119,6 @@ sodazaa.com##._bn-float
 ||sboibc888.com
 ! postto is pretty agressive on banners esp. on sodazaa -- blocking for now.
 ||postto.me/*
-
 
 bugnoms.com##.ads
 tax.bugnoms.com/wp-content/uploads/banner*
