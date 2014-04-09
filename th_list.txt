@@ -82,17 +82,23 @@ tvjaa.com##*#exposeMask
 tvjaa.com##*#dlgAds
 tvjaa.com##*#FloatingLayerright
 tvjaa.com##*#FloatingLayerleft
+||tvjaa.com/*mezo.gif
 
 ! banners on some specific sites
 ||taklong.com/*.swf
 ||overclockzone.com/*banner*
 www.overclockzone.com##div#sidebar_container
+app4view.com###border-head
 
 ! banners
 ||mds.nipa.co.th
+||*nipa.co.th/*.js
 ||*.nipa.co.th/*.php
 !||*.nipa.co.th/*.gif
 ##.ads_nipa
+||affxx.com/affiliate*
+||xn--82c4cdttl7a4bzete.com
+||banner.dafasportbook.com/*.gif
 
 ||ohozaa.com/floatcenter.php
 ||ohozaa.com/js/jquery.scroll-follow.js
@@ -138,7 +144,6 @@ thaiscooter.com###ad_global_below_navbar
 ||stats.in.th^
 ||synergy-e.com/*.js
 ||thousandeyes.com/*.js
-||nipa.co.th/*.js
 ||scorecardresearch.com/*.js
 ||imrworldwide.com/*.js
 ||w3counter.com/*.js
