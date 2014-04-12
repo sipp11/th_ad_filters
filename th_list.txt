@@ -89,10 +89,14 @@ tvjaa.com##*#FloatingLayerleft
 ||overclockzone.com/*banner*
 www.overclockzone.com##div#sidebar_container
 app4view.com###border-head
+||myaday.net/*banner*
+cm-club.com###ad_global_above_footer
+cm-club.com###ad_global_below_navbar
+||cm-club.com/*banner*
 
 ! banners
 ||mds.nipa.co.th
-||*nipa.co.th/*.js
+||*.nipa.co.th/*.js
 ||*.nipa.co.th/*.php
 !||*.nipa.co.th/*.gif
 ##.ads_nipa
@@ -108,6 +112,10 @@ ohozaa.com##.ads_line
 
 dogilike.com##.bannerhome
 dogilike.com##.recommend
+
+temppic.com###AutoNumber1
+temppic.com###b1
+temppic.com###b2
 
 ||goal.in.th/banner/*
 
