@@ -1,4 +1,15 @@
 [Adblock Plus 1.1]
+! general
+###adLocation-10
+###adLocation-9
+###adLocation-8
+###adLocation-7
+###adLocation-6
+###adLocation-5
+
+! site-specific
+||getapple.net/phpbb/ourdata/ads/*
+
 ! on madoolakorn.com
 madoolakorn.com###asdRightSlide
 madoolakorn.com###asdLeftSlide
